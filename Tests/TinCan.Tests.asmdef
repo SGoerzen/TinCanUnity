@@ -1,0 +1,17 @@
+{
+    "name": "TinCan.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9b29afca86c7f314eb2f13b22ca1967d",
+        "GUID:e9745f6a32442194c8dc5a43e9ab86f9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

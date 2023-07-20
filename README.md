@@ -1,15 +1,7 @@
-A C#/.NET library for implementing Tin Can API.
+A Unity Package for implementing Tin Can API.
 
-For hosted API documentation, basic usage instructions, supported version listing, etc. visit the main project website at:
-
-http://rusticisoftware.github.io/TinCan.NET/
-
-For more information about the Tin Can API visit:
-
-http://tincanapi.com/
-
-Requires .NET 3.5 or later.
+This package is strictly based (and forked) on https://github.com/RusticiSoftware/TinCan.NET. The only difference is the project structure to support Unity packages import.
 
 ### Installation
 
-Available via NuGet.
+You have to import this package via Git url in Unity packages. 
